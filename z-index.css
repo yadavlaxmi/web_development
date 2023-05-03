@@ -1,0 +1,14 @@
+div{
+    border:solid 1px red;
+    height:150px;
+}
+h1{
+    position:relative;
+    z-index:1;
+}
+p{
+    background-color: brown;
+    position :relative;
+    top:-25px;
+    z-index:2;
+}

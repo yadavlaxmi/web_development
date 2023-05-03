@@ -1,0 +1,9 @@
+p{
+    border:solid 1px black;
+}
+.a,.b{
+    padding:10px
+}
+.a{
+    padding:10px 40px 20px 5px;
+}

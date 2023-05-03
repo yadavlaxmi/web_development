@@ -1,0 +1,16 @@
+.a{
+    background-color:lightblue;
+    border-left:solid 5px blue;
+}
+.b{
+    background-color:brown;
+    border-right:solid red 4px;
+}
+.c{
+    background-color:purple;
+    border-top:solid 1px rgb(110, 223, 58);
+    border-bottom:1px black solid;
+}
+.d{
+    background-color:lightblue;
+}

@@ -1,0 +1,13 @@
+div{
+    border:solid 3px red;
+    height:150px;
+    position:relatives
+}
+p{
+    border:solid 1px black;
+}
+.abc{
+    position:absolute;
+    bottom:20px;
+    right:10px
+}

@@ -1,0 +1,14 @@
+p{
+    border-style:solid;
+}
+.b{
+    border-width:50px;
+}
+.c{
+    border-color:pink;
+}
+.abc{
+    border-style:dotted;
+    border-color: blue;
+    border-width:30px
+}
